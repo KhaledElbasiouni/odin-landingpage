@@ -12,7 +12,8 @@ ul {
 }
 
 nav,
-header {
+header,
+footer {
     background-color:#1F2937;
 }
 
@@ -60,6 +61,10 @@ ul {
     gap: 16px;
 }
 
+footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
 
 /* Styling is  MOSTLY above */
 body {
@@ -211,4 +216,11 @@ header .container img {
 
 .call-to-action button {
     border: solid 3px white;
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0px;
 }
