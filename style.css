@@ -70,8 +70,9 @@ body {
 nav, 
 header, 
 section {
-    flex: 1;
+    flex: 1 1 auto;
 }
+
 
 .container {
    /* max-width: 60%; */
@@ -154,4 +155,60 @@ header .container img {
     /* border: solid 4px #467599; */
     border-radius: 18px;
     margin-bottom: 8px;
+}
+
+.testimonial {
+    background-color: #E5E7EB;
+    padding: 24px;
+}
+
+.testimonial-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style:italic;
+    color: #1F2937;
+}
+
+.testimonial .container {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.testimonal-source {
+    align-self: flex-end;
+    font-weight: 900;
+    margin-top: 20px;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 125px;
+}
+.call-to-action .container {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 50px 125px;
+    justify-content: space-between;
+    max-width: 50%;
+}
+
+.call-to-action-title {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+.call-to-action-text {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.call-to-action button {
+    border: solid 3px white;
 }
