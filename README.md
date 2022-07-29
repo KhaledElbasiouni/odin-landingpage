@@ -10,4 +10,4 @@ Hosted on Github Pages.
 
 ## Preview
 
-- [Click here for a preview!](https://www.github.com/khaledelbasiouni)
+- [Click here for a preview!](https://khaledelbasiouni.github.io/odin-landingpage/)
