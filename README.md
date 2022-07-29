@@ -1,4 +1,13 @@
-# odin-landingpage
+# Odin-landingpage
 
-Learning points:
-CSS Flexbox for positioning and organizing elements
+A simple landing page to practice and showcase the basics of HTML, CSS, Flexbox.
+
+Hosted on Github Pages.
+
+## Authors
+
+- [@khaledelbasiouni](https://www.github.com/khaledelbasiouni)
+
+## Preview
+
+- [Click here for a preview!](https://www.github.com/khaledelbasiouni)
